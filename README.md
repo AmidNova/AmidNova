@@ -8,12 +8,13 @@
 
 ## 🧑‍💻 About Me
 
-Backend, Full Stack & DevOps Engineer passionate about building scalable systems, cloud infrastructure, and data-driven applications.
+I specialize in bulding full-stack applications, deploying scalable cloud systems, and delivering applied AI solution. 
+Passionate about clean architecture, real-time performance, and creating software that solve real problem.
 
 - 🔭 Currently working on backend architectures and cloud solutions
 - 🌱 Always learning new technologies and best practices
 - 💬 Ask me about **Java**, **Python**, **JavaScript/TypeScript**, **Cloud & DevOps**
-- 📫 Reach me at: **YOUR_EMAIL_HERE**
+- 📫 Reach me at: **katchinninsongui-amidou.soro@eleve.isep.fr**
 
 ---
 
