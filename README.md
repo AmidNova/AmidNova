@@ -56,7 +56,7 @@ Each project has a full write-up (context, architecture, choices, limits) on **[
 ### Also built
 
 - **[Portfolio](https://github.com/AmidNova/portfolio)**: the site itself, run like a small production system. Two hosting platforms in Terraform (Cloudflare and an AWS mirror), a gated CI, and a serverless contact backend on AWS.
-- **[Bozarts](https://github.com/AmidNova/bozarts-v2)**: art-and-craft marketplace (Next.js, Prisma, Stripe) deployed on AWS ECS, with networking, ECR, ECS and RDS as Terraform modules.
+- **[Bozarts](https://github.com/AmidNova/bozarts-v2)**: art-and-craft marketplace (Next.js, Prisma, Stripe) with its AWS infrastructure written as Terraform modules: networking, ECR, ECS Fargate and RDS.
 - **[Kairos](https://github.com/AmidNova/kairos)**: price tracker with a FastAPI + Playwright scraper, a Next.js app and scheduled price alerts.
 
 ## Toolbox
